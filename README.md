@@ -25,6 +25,7 @@ Movement of pieces are the same as classic Checkers. In all new games, fire team
 > compile all files and run
 
 ```shell
+$ cd app
 $ javac *.java
 $ java Board
 ```
