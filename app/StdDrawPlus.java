@@ -42,13 +42,13 @@ public final class StdDrawPlus implements ActionListener, MouseListener, MouseMo
     public static final Color BLUE       = Color.BLUE;
     public static final Color CYAN       = Color.CYAN;
     public static final Color DARK_GRAY  = Color.DARK_GRAY;
-    public static final Color GRAY       = Color.GRAY;
+    public static final Color GRAY       = new Color(65, 64, 64);
     public static final Color GREEN      = Color.GREEN;
     public static final Color LIGHT_GRAY = Color.LIGHT_GRAY;
     public static final Color MAGENTA    = Color.MAGENTA;
     public static final Color ORANGE     = Color.ORANGE;
     public static final Color PINK       = Color.PINK;
-    public static final Color RED        = Color.RED;
+    public static final Color RED        = new Color(217, 80, 80);
     public static final Color WHITE      = Color.WHITE;
     public static final Color YELLOW     = Color.YELLOW;
 
