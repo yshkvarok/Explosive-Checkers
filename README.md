@@ -4,8 +4,6 @@
 
 # Explosive-Checkers
 
-> Checkers with a twist: includes 'bomb' and 'shell' pieces
-
 > A Java based Checkers game running on StdDraw
 
 The board is an 8x8 board, with water and fire pieces on the top and bottom. Each player starts with pieces in the three rows closest to them. The front, middle-most row consists of Bomb Pieces, the second row consists of Shield Pieces, and the back, edge-most row consists of normal pieces. Only every other space on the Board is used, and all pieces can only move and capture diagonally. If a capture move is available, the player is not required to capture. The bottom left corner should have a "black" square, and should contain a normal fire piece.
